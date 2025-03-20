@@ -1,4 +1,4 @@
-# Survey-CoT-RM
+# Survey of Chain-of-Thought Reward Model
 
 This is a collection of research papers on __Chain-of-Thought Reward Model__ (CoT RM).
 
@@ -16,8 +16,9 @@ Recent advances in industrial open-source LLMs suggest that CoT RM is more favor
 ![image](https://github.com/user-attachments/assets/c1cc4c45-7e10-4701-908f-225e9233924a)
 
 
-## Paper List
+## 📖 Papers  
 
-Paper: [Critique-out-Loud Reward Models](https://arxiv.org/abs/2408.11791)
-Github:
+| Title | Publication Date | Link |
+|---------------------------------|------------------------|---------------------------------|
+| Critique-out-Loud Reward Models | x Aug 2024 | [Arxiv](https://arxiv.org/abs/2408.11791) |
 
