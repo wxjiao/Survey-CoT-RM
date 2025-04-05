@@ -34,6 +34,13 @@ The main advantages include:
 | Improving Reward Models with Synthetic Critiques | 31 May 2024 | [Arxiv](https://arxiv.org/abs/2405.20850) |
 
 
+## Notes
+
+### **Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators**
+链接：https://arxiv.org/abs/2503.19877 <br>
+日期：2025年3月25日 <br>
+单位：CMU等 <br>
+简介：核心是比较全面地分析了在评价阶段，采用long CoT推理能力对于评价准确性的影响。这里的scaling主要是通过（1）将答案拆分成N个step，并对每个step进行long CoT评价；（2）答案整体也会做一次long CoT评价。本质是在long CoT基础上同时集成过程奖励模型(PRM)和结果奖励模型(ORM)的策略。ORM得分采用输出位置上”1”和“0”的logits的二元softmax，PRM每个step得分计算方式类似，但是PRM总分采用mean_logits。最后整体分数采用 $\alpha \rm{ORM} + (1-\alpha)\rm{PRM}$ 的加权形式，$\alpha$ 默认0.5。
 
 
 
