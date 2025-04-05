@@ -24,6 +24,7 @@ The main advantages include:
 
 | Title | Publication Date | Link |
 |---------------------------------|------------------------|---------------------------------|
+| Inference-Time Scaling for Generalist Reward Modeling | 03 Apr 2025 | [ArXiv](https://arxiv.org/abs/2504.02495) |
 | Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators | 25 Mar 2025 | [Arxiv](https://arxiv.org/abs/2503.19877) |
 | Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge | 30 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.18099)|
 | PairJudge RM: Perform Best-of-N Sampling with Knockout Tournament | 22 Jan 2025 | [Arxiv](https://arxiv.org/abs/2501.13007)|
