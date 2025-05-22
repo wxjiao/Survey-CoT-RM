@@ -24,6 +24,10 @@ The main advantages include:
 
 | Title | Publication Date | Link |
 |---------------------------------|------------------------|---------------------------------|
+| Reward Reasoning Model | 20 May | [Arxiv](https://arxiv.org/pdf/2505.14674) |
+| WorldPM: Scaling Human Preference Modeling | 18 May | [Arxiv](https://arxiv.org/pdf/2505.10527) |
+| RM-R1: Reward Modeling as Reasoning | 18 May | [Arxiv](https://arxiv.org/pdf/2505.02387) |
+| A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization | 07 Apr 2025 | [Arxiv](https://arxiv.org/pdf/2504.04950) |
 | Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations | 07 Apr 2025 | [Arxiv](https://arxiv.org/abs/2504.05294) |
 | Inference-Time Scaling for Generalist Reward Modeling | 03 Apr 2025 | [Arxiv](https://arxiv.org/abs/2504.02495) |
 | Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators | 25 Mar 2025 | [Arxiv](https://arxiv.org/abs/2503.19877) |
